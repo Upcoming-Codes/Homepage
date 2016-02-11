@@ -5,8 +5,6 @@ html {
 }
 body {
   margin: 0;
-  background-image: url("http://res.cloudinary.com/robgoldy/image/upload/v1455173640/Dubtrack_Default_Background_2_cve7vb.jpg") no-repeat;
-  background-size: 100% auto;
 }
 article,
 aside,
@@ -1081,8 +1079,11 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
-  color: #333;
-  background-color: #fff;
+  color: #ffffff;
+  background-color: #000000;
+  /*background-image: url("http://res.cloudinary.com/robgoldy/image/upload/v1455173640/Dubtrack_Default_Background_2_cve7vb.jpg") no-repeat;
+  */
+  background-size: 100% auto;
 }
 input,
 button,
